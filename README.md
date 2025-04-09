@@ -8,7 +8,8 @@ An offline, privacy-focused AI assistant with mood simulation.
 - Long-term memory
 
 ## Installation
-```bash
+```
+bash
 git clone https://github.com/yourusername/ai-assistant.git
 cd ai-assistant
 chmod +x install.sh
