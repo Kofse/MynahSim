@@ -1,0 +1,5 @@
+models/
+web_cache/
+interaction_history/
+personality.yaml
+*.log
