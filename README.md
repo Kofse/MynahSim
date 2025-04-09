@@ -10,7 +10,7 @@ An offline, privacy-focused AI assistant with mood simulation.
 ## Installation
 ```
 bash
-git clone https://github.com/yourusername/ai-assistant.git
+git clone https://github.com/Kofse/MynahSim.git
 cd ai-assistant
 chmod +x install.sh
 ./install.sh
